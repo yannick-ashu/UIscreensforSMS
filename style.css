@@ -1,0 +1,14 @@
+div{
+background-position: center;
+display: flex;
+flex-direction: column;
+position: inherit;
+background-size: cover;
+max-width: 500px auto;
+justify-self: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
